@@ -8,7 +8,7 @@
           <div class="page-main">
             <div class="left">
               <h3>Target :</h3>
-              <p>对绚丽的网页十分热爱，对优秀的前端交互十分向往，对前端技术痴迷！</p>
+              <p>对绚丽的网页十分热爱，对优秀的前端交互无比向往！经过这一年的工作，对前端算是有了更深的认识。更加坚信我对职业的选择，未来也将继续在前端的道路上辛勤耕耘。。。</p>
             </div>
             <div class="right">
               <img src="./images/a25.png">
@@ -282,7 +282,7 @@
               text-indent: 20px;
             }
             ul {
-              width: 260px;
+              width: 280px;
               padding-left: 20px;
               display: inline-block;
               margin: 0;
@@ -297,10 +297,11 @@
           .right {
             width: 230px;
             img {
-              width: 100%;
-              height: 100%;
+              width: 81%;
+              height: 80%;
               border-radius: 1px;
               border: 1px solid #eee;
+              margin: 12% 10%;
             }
           }
         }
