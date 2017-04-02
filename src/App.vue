@@ -88,7 +88,7 @@
             <h3>Project :</h3>
             <ul>
               <li>
-                <h5>门店销售App（Hybrid）</h5>
+                <h5>门店销售App</h5>
                 <p><span class="title">项目介绍：</span>
                   该项目是安卓App。由公司下设门店员工线下销售使用。该项目用Cordova打包，安卓内嵌HTML的方式实现。用模块化的方式分离HTML、CSS 和
                   JavaScript代码，实现按需加载。用knockout实现数据层的实时更新。用Ajax实现前后端交互。</p>
@@ -96,13 +96,13 @@
                   负责前端展示页面模板的编写及后期维护。业务需求的分析、配合后端及产品制定业务流程。业务逻辑的编写及修改BUG等完善工作。后期为适应新的业务需求，主导过一次改版，并优化用户体验及大幅提升性能。</p>
               </li>
               <li>
-                <h5>企业管理系统ERP</h5>
-                <p><span class="title">项目介绍：</span> 该项目是Web App应用。由总公司业务管理使用。前端用
-                  VUE整套技术栈，组件化开发，组件采用BootStrap样式。用Ajax实现前后端交互。</p>
+                <h5>企业管理系统</h5>
+                <p><span class="title">项目介绍：</span> 该项目是Web App应用。由总公司业务管理使用。前后端分离，前端用
+                  Vue.js技术栈，组件化开发，组件采用BootStrap样式。用Ajax实现前后端交互。</p>
                 <p><span class="title">工作职责：</span> 负责部分组件的编写和后期维护。负责业务需求的理解和部分业务逻辑的编写。负责和后端的沟通。修复项目BUG。</p>
               </li>
               <li>
-                <h5>档口采购App（Hybrid）</h5>
+                <h5>档口采购App</h5>
                 <p><span class="title">项目介绍：</span> 该项目是安卓App应用。由公司下设档口采购员采购使用。该项目用Cordova打包，安卓内嵌HTML的方式实现。前端用
                   VUE整套技术栈，组件化开发。用Ajax实现前后端交互。</p>
                 <p><span class="title">工作职责：</span> 负责项目前期的前端架构。负责业务需求的理解和部分业务逻辑的编写。负责和后端的沟通，把握流程和处理问题。</p>
