@@ -53,7 +53,7 @@
               </li>
               <li>
                 <p> 常用的JavaScript库有<span class="code">jQuery.js</span>，<span class="code">Vue.js</span>，<span
-                  class="code">Knockout.js</span>。擅长使用<span class="code">Vue.js</span>全套技术栈快速开发。熟悉<span class="code">Node.js</span>，可以作简单的后端开发。
+                  class="code">Knockout.js</span>。擅长使用<span class="code">Vue.js</span>技术栈快速开发。熟悉<span class="code">Node.js</span>，可以作简单的后端开发。
                 </p>
               </li>
               <li>
@@ -61,7 +61,7 @@
               </li>
               <li>
                 <p> 热爱钻研新的技术和标准，熟悉<span class="code">ES6</span>，常用<span class="code">LESS</span>作为CSS预处理语言，熟悉<span
-                  class="code">NPM</span>和<span class="code">Webpack</span>，版本控制工具用<span class="code">SVN</span>。</p>
+                  class="code">NPM</span>和<span class="code">Webpack</span>，熟练使用版本控制工具<span class="code">SVN</span>。</p>
               </li>
             </ul>
           </div>
@@ -116,7 +116,7 @@
             <div class="evaluation">
               <p>
                 有一年前端开发经验，熟练掌握Vue.js技术栈，能独立进行PC端以及手机端开发。为人真诚可靠，对工作认真负责，在一年的工作中得到全公司所
-                有员工的一致认可。个性乐观执着，积极向上，敢于面对困难与挑战，向往接受新生事物及技术，决心在未来成为一个前端大牛。具有较强的学习能
+                有员工的一致认可。个性乐观执着，积极向上，敢于面对困难与挑战，乐于接受新生事物及技术，决心在未来成为一个前端大牛。具有较强的学习能
                 力和团队合作能力，能够快速融入团队开始工作。
               </p>
             </div>
