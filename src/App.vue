@@ -41,7 +41,7 @@
         </div>
         <div class="swiper-slide bg3">
           <div class="page-main">
-            <h3>Skill & Assessment :</h3>
+            <h3>Skill :</h3>
             <ul>
               <li>
                 <p> 使用<span class="code">HTML5</span>和<span class="code">CSS3</span>快速编写符合W3c标准web页面，了解 HTML5
@@ -57,11 +57,11 @@
                 </p>
               </li>
               <li>
-                <p> 熟悉组件化开发，在实际项目中参与过部分组件的设计，编写以及后期维护；了解<span class="code">Hybrid</span>开发模式。</p>
+                <p> 熟悉组件化开发，在实际项目中参与过部分组件的设计，编写以及后期维护；了解<span class="code">Hybrid</span>开发模式。移动端 web App 相关开发经验丰富。</p>
               </li>
               <li>
                 <p> 热爱钻研新的技术和标准，熟悉<span class="code">ES6</span>，常用<span class="code">LESS</span>作为CSS预处理语言，熟悉<span
-                  class="code">NPM</span>和<span class="code">Webpack</span>，熟练使用版本控制工具<span class="code">SVN</span>。</p>
+                  class="code">NPM</span>和<span class="code">Webpack</span>，熟练使用版本控制工具<span class="code">SVN</span>和项目管理工具<span class="code">禅道</span>。</p>
               </li>
             </ul>
           </div>
@@ -90,22 +90,20 @@
               <li>
                 <h5>门店销售App</h5>
                 <p><span class="title">项目介绍：</span>
-                  该项目是安卓App。由公司下设门店员工线下销售使用。该项目用Cordova打包，安卓内嵌HTML的方式实现。用模块化的方式分离HTML、CSS 和
-                  JavaScript代码，实现按需加载。用knockout实现数据层的实时更新。用Ajax实现前后端交互。</p>
+                  该项目是安卓应用，由公司线下门店管理和销售使 用，分为店长版和店员版，通过登录不同权限的账号显示不同的功能 模块。该项目前期为独立系统，以后会逐步并入 ERP 系统。</p>
                 <p><span class="title">工作职责：</span>
-                  负责前端展示页面模板的编写及后期维护。业务需求的分析、配合后端及产品制定业务流程。业务逻辑的编写及修改BUG等完善工作。后期为适应新的业务需求，主导过一次改版，并优化用户体验及大幅提升性能。</p>
+                  严格按照分配任务按时、高效完成代码编写；后期做 安卓手机的兼容，最低到 4.2 版本。并修改页面的加载渲染机制，使 页面动画更加流畅。后期为适应新的业务需求，主导过一次整体的升级改版，全程参 与需求分析和业务流程设计，最终按时圆满完成工作。
+                </p>
               </li>
               <li>
                 <h5>企业管理系统</h5>
-                <p><span class="title">项目介绍：</span> 该项目是Web App应用。由总公司业务管理使用。前后端分离，前端用
-                  Vue.js技术栈，组件化开发，组件采用BootStrap样式。用Ajax实现前后端交互。</p>
-                <p><span class="title">工作职责：</span> 负责部分组件的编写和后期维护。负责业务需求的理解和部分业务逻辑的编写。负责和后端的沟通。修复项目BUG。</p>
+                <p><span class="title">项目介绍：</span>  ERP 系统由总公司业务管理使用，其中包含七大模 块：商品中心，订单中心，物流中心，库存管理，财务管理，门店管 理，权限管理。其中包含商品的组合定价策略和申请的自动审批等均 为项目的亮点。该项目是用 Vue.js编写的多页面 Web 应用，项目前后端分离，组件化开发。</p>
+                <p><span class="title">工作职责：</span> 项目前期参与需求评审和前端工作计划的制定。并负 责表格，分页组件的编写、完善和维护。项目中与 UI 人员和产品讨 论需求及优化界面，和后端工程师配合联调接口；项目后期与后端人 员、测试人员沟通分析并解决问题，保持多周上线零BUG 遗留。项 目整体采用快速迭代开发，每两周提交一个新版本。</p>
               </li>
               <li>
                 <h5>档口采购App</h5>
-                <p><span class="title">项目介绍：</span> 该项目是安卓App应用。由公司下设档口采购员采购使用。该项目用Cordova打包，安卓内嵌HTML的方式实现。前端用
-                  VUE整套技术栈，组件化开发。用Ajax实现前后端交互。</p>
-                <p><span class="title">工作职责：</span> 负责项目前期的前端架构。负责业务需求的理解和部分业务逻辑的编写。负责和后端的沟通，把握流程和处理问题。</p>
+                <p><span class="title">项目介绍：</span>  公司采购员通过 App 接收 ERP 系统实时派发的询价 消息去档口询价，并完成上报审核以及后续的购买，入库和配送等操 作。该项目是用 Vue.js编写的单页 web 应用，通过 Cordova 打包生 成安卓 App</p>
+                <p><span class="title">工作职责：</span> 负责项目 web 应用的前端框架搭建；在组长指导下 参前端工作计划的制定和需求评审；每天早晨进行小组成员的成果汇 总。后期负责产品的打包以及 web 版部署等工作。</p>
               </li>
             </ul>
           </div>
@@ -115,9 +113,7 @@
             <h3>写在最后</h3>
             <div class="evaluation">
               <p>
-                有一年前端开发经验，熟练掌握Vue.js技术栈，能独立进行PC端以及手机端开发。为人真诚可靠，对工作认真负责，在一年的工作中得到全公司所
-                有员工的一致认可。个性乐观执着，积极向上，敢于面对困难与挑战，乐于接受新生事物及技术，决心在未来成为一个前端大牛。具有较强的学习能
-                力和团队合作能力，能够快速融入团队开始工作。
+                有一年前端开发经验，熟练掌握 Vue.js技术栈，能独立进行 PC端以及移动端开发。为人真 诚可靠，对工作认真负责，在一年的工作中得到全公司所有员工的一致认可。个性乐观执着，积极 向上，敢于面对困难与挑战，乐于接受新生事物及技术。具有较强的学习能力和团队合作能力，能 快速融入团队开始工作。
               </p>
             </div>
             <div class="tell-me">
@@ -355,7 +351,7 @@
         background: #dedede;
         .absoluteCenter();
         .page-main {
-          height: 600px;
+          height: 700px;
           width: 1000px;
           background: #fff;
           padding: 30px;
